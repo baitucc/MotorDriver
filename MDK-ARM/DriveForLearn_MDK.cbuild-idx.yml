@@ -1,0 +1,9 @@
+build-idx:
+  generated-by: csolution version 2.4.0
+  csolution: DriveForLearn_MDK.csolution.yml
+  cprojects:
+    - cproject: DriveForLearn_MDK.cproject.yml
+  cbuilds:
+    - cbuild: DriveForLearn_MDK+DriveForLearnMDK.cbuild.yml
+      project: DriveForLearn_MDK
+      configuration: +DriveForLearnMDK

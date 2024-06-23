@@ -1,0 +1,10 @@
+solution:
+  created-by: uv2csolution@1.4.0
+  created-for: CMSIS-Toolbox@2.3.0
+  compiler: AC6@6.21.0
+  target-types:
+    - type: DriveForLearnMDK
+      device: STM32F407VETx
+      optimize: debug
+  projects:
+    - project: DriveForLearn_MDK.cproject.yml

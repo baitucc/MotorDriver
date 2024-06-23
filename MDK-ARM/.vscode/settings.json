@@ -1,0 +1,11 @@
+{
+    "cmsis-csolution.actions": [
+        {
+            "path": "DriveForLearn_MDK.csolution.yml",
+            "target": "DriveForLearnMDK",
+            "config": {
+                "run": "Flash Device"
+            }
+        }
+    ]
+}

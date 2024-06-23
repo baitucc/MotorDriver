@@ -1,0 +1,394 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:228 (message)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      The target system is: Generic -  - 
+      The host system is: Windows - 10.0.19045 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:228 (message)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      The target system is: Generic -  - 
+      The host system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags:  
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags:  
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -c 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -c 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is ARMClang, found in:
+        F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/3.28.4/CompilerIdC/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      armclang: fatal error: no target architecture given; use --target=arm-arm-none-eabi or --target=aarch64-arm-none-eabi
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/armclang.exe 
+      Build flags: -mcpu=Cortex-M4;-mfpu=fpv4-sp-d16;-mfloat-abi=hard
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is ARMClang, found in:
+        F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/3.28.4/CompilerIdC/a.out
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-xjnmkw"
+      binary: "F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-xjnmkw"
+    cmakeVariables:
+      CMAKE_C_COMPILER_TARGET: "arm-arm-none-eabi"
+      CMAKE_C_FLAGS: "-mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard"
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.open.cmsis.pack.cmsis.toolbox/2.4.0/etc/CMakeASM"
+      CMAKE_WARN_DEPRECATED: "FALSE"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-xjnmkw'
+        
+        Run Build Command(s): C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.ninja.build.ninja/1.12.0/ninja.exe -v cmTC_9a168
+        [1/2] c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armclang.exe --target=arm-arm-none-eabi   -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard    -v -MD -MT CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -MF CMakeFiles\\cmTC_9a168.dir\\CMakeCCompilerABI.o.d -o CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        Product: Keil MDK Community (non-commercial free of charge)
+        Component: Arm Compiler for Embedded 6.21
+        Tool: armclang [5ec1fd00]
+        
+        Target: arm-arm-none-eabi
+         (in-process)
+         "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\armclang.exe" -cc1 -triple thumbv7em-arm-none-eabihf -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=none -menable-no-infs -menable-no-nans -fmath-errno -fno-signed-zeros -fdenormal-fp-math=preserve-sign,preserve-sign -ffp-contract=on -fno-rounding-math -ffinite-math-only -mconstructor-aliases -target-cpu cortex-m4 -target-feature -vfp2 -target-feature +vfp2sp -target-feature -vfp3 -target-feature -vfp3d16 -target-feature +vfp3d16sp -target-feature -vfp3sp -target-feature +fp16 -target-feature -vfp4 -target-feature -vfp4d16 -target-feature +vfp4d16sp -target-feature -vfp4sp -target-feature -fp-armv8 -target-feature -fp-armv8d16 -target-feature -fp-armv8d16sp -target-feature -fp-armv8sp -target-feature -fullfp16 -target-feature -fp64 -target-feature -d32 -target-feature -neon -target-feature -sha2 -target-feature -aes -target-feature -fp16fml -target-abi aapcs -mfloat-abi hard -debugger-tuning=gdb -fforce-dwarf-frame "-fdebug-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-xjnmkw" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-xjnmkw" -resource-dir "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\lib\\\\clang\\\\18" -dependency-file "CMakeFiles\\\\cmTC_9a168.dir\\\\CMakeCCompilerABI.o.d" -MT CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -sys-header-deps -canonical-system-headers -internal-isystem "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\..\\\\include" -nobuiltininc -ferror-limit 19 -fvisibility=hidden -fno-signed-char -fgnuc-version=4.2.1 -fsuppress-licensing -aggressive-jump-threading -o CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -x c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        Arm Compiler for Embedded 6.21 -cc1 default target aarch64-arm-none-eabi
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\..\\include\x0d
+        End of search list.\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armar.exe --create -cr libcmTC_9a168.a  CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/../include]
+        end of search list found
+        collapse include dir [c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/../include] ==> [C:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/include]
+        implicit include dirs: [C:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(armlink\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        ignore line: [Change Dir: 'F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-xjnmkw']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.ninja.build.ninja/1.12.0/ninja.exe -v cmTC_9a168]
+        ignore line: [[1/2] c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armclang.exe --target=arm-arm-none-eabi   -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard    -v -MD -MT CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -MF CMakeFiles\\cmTC_9a168.dir\\CMakeCCompilerABI.o.d -o CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
+        ignore line: [Product: Keil MDK Community (non-commercial free of charge)]
+        ignore line: [Component: Arm Compiler for Embedded 6.21]
+        ignore line: [Tool: armclang [5ec1fd00]]
+        ignore line: []
+        ignore line: [Target: arm-arm-none-eabi]
+        ignore line: [ (in-process)]
+        ignore line: [ "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\armclang.exe" -cc1 -triple thumbv7em-arm-none-eabihf -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=none -menable-no-infs -menable-no-nans -fmath-errno -fno-signed-zeros -fdenormal-fp-math=preserve-sign preserve-sign -ffp-contract=on -fno-rounding-math -ffinite-math-only -mconstructor-aliases -target-cpu cortex-m4 -target-feature -vfp2 -target-feature +vfp2sp -target-feature -vfp3 -target-feature -vfp3d16 -target-feature +vfp3d16sp -target-feature -vfp3sp -target-feature +fp16 -target-feature -vfp4 -target-feature -vfp4d16 -target-feature +vfp4d16sp -target-feature -vfp4sp -target-feature -fp-armv8 -target-feature -fp-armv8d16 -target-feature -fp-armv8d16sp -target-feature -fp-armv8sp -target-feature -fullfp16 -target-feature -fp64 -target-feature -d32 -target-feature -neon -target-feature -sha2 -target-feature -aes -target-feature -fp16fml -target-abi aapcs -mfloat-abi hard -debugger-tuning=gdb -fforce-dwarf-frame "-fdebug-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-xjnmkw" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-xjnmkw" -resource-dir "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\lib\\\\clang\\\\18" -dependency-file "CMakeFiles\\\\cmTC_9a168.dir\\\\CMakeCCompilerABI.o.d" -MT CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -sys-header-deps -canonical-system-headers -internal-isystem "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\..\\\\include" -nobuiltininc -ferror-limit 19 -fvisibility=hidden -fno-signed-char -fgnuc-version=4.2.1 -fsuppress-licensing -aggressive-jump-threading -o CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o -x c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
+        ignore line: [Arm Compiler for Embedded 6.21 -cc1 default target aarch64-arm-none-eabi]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\..\\include\x0d]
+        ignore line: [End of search list.\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armar.exe --create -cr libcmTC_9a168.a  CMakeFiles/cmTC_9a168.dir/CMakeCCompilerABI.o && cd ."]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+...
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-2e3r4c"
+      binary: "F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-2e3r4c"
+    cmakeVariables:
+      CMAKE_C_COMPILER_TARGET: "arm-arm-none-eabi"
+      CMAKE_C_FLAGS: "-mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard"
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.open.cmsis.pack.cmsis.toolbox/2.4.0/etc/CMakeASM"
+      CMAKE_WARN_DEPRECATED: "FALSE"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-2e3r4c'
+        
+        Run Build Command(s): C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.ninja.build.ninja/1.12.0/ninja.exe -v cmTC_242fa
+        [1/2] c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armclang.exe --target=arm-arm-none-eabi   -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard    -v -MD -MT CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -MF CMakeFiles\\cmTC_242fa.dir\\CMakeCCompilerABI.o.d -o CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        Product: Keil MDK Community (non-commercial free of charge)
+        Component: Arm Compiler for Embedded 6.21
+        Tool: armclang [5ec1fd00]
+        
+        Target: arm-arm-none-eabi
+         (in-process)
+         "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\armclang.exe" -cc1 -triple thumbv7em-arm-none-eabihf -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=none -menable-no-infs -menable-no-nans -fmath-errno -fno-signed-zeros -fdenormal-fp-math=preserve-sign,preserve-sign -ffp-contract=on -fno-rounding-math -ffinite-math-only -mconstructor-aliases -target-cpu cortex-m4 -target-feature -vfp2 -target-feature +vfp2sp -target-feature -vfp3 -target-feature -vfp3d16 -target-feature +vfp3d16sp -target-feature -vfp3sp -target-feature +fp16 -target-feature -vfp4 -target-feature -vfp4d16 -target-feature +vfp4d16sp -target-feature -vfp4sp -target-feature -fp-armv8 -target-feature -fp-armv8d16 -target-feature -fp-armv8d16sp -target-feature -fp-armv8sp -target-feature -fullfp16 -target-feature -fp64 -target-feature -d32 -target-feature -neon -target-feature -sha2 -target-feature -aes -target-feature -fp16fml -target-abi aapcs -mfloat-abi hard -debugger-tuning=gdb -fforce-dwarf-frame "-fdebug-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-2e3r4c" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-2e3r4c" -resource-dir "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\lib\\\\clang\\\\18" -dependency-file "CMakeFiles\\\\cmTC_242fa.dir\\\\CMakeCCompilerABI.o.d" -MT CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -sys-header-deps -canonical-system-headers -internal-isystem "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\..\\\\include" -nobuiltininc -ferror-limit 19 -fvisibility=hidden -fno-signed-char -fgnuc-version=4.2.1 -fsuppress-licensing -aggressive-jump-threading -o CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -x c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        Arm Compiler for Embedded 6.21 -cc1 default target aarch64-arm-none-eabi
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\..\\include\x0d
+        End of search list.\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armar.exe --create -cr libcmTC_242fa.a  CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/../include]
+        end of search list found
+        collapse include dir [c:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/bin/../include] ==> [C:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/include]
+        implicit include dirs: [C:/Users/dzh/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.21.0/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:91 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(armlink\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        ignore line: [Change Dir: 'F:/Motor/DriveForLearn_MDK/MDK-ARM/tmp/DriveForLearn_MDK/DriveForLearnMDK/CMakeFiles/CMakeScratch/TryCompile-2e3r4c']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.ninja.build.ninja/1.12.0/ninja.exe -v cmTC_242fa]
+        ignore line: [[1/2] c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armclang.exe --target=arm-arm-none-eabi   -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard    -v -MD -MT CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -MF CMakeFiles\\cmTC_242fa.dir\\CMakeCCompilerABI.o.d -o CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
+        ignore line: [Product: Keil MDK Community (non-commercial free of charge)]
+        ignore line: [Component: Arm Compiler for Embedded 6.21]
+        ignore line: [Tool: armclang [5ec1fd00]]
+        ignore line: []
+        ignore line: [Target: arm-arm-none-eabi]
+        ignore line: [ (in-process)]
+        ignore line: [ "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\armclang.exe" -cc1 -triple thumbv7em-arm-none-eabihf -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=none -menable-no-infs -menable-no-nans -fmath-errno -fno-signed-zeros -fdenormal-fp-math=preserve-sign preserve-sign -ffp-contract=on -fno-rounding-math -ffinite-math-only -mconstructor-aliases -target-cpu cortex-m4 -target-feature -vfp2 -target-feature +vfp2sp -target-feature -vfp3 -target-feature -vfp3d16 -target-feature +vfp3d16sp -target-feature -vfp3sp -target-feature +fp16 -target-feature -vfp4 -target-feature -vfp4d16 -target-feature +vfp4d16sp -target-feature -vfp4sp -target-feature -fp-armv8 -target-feature -fp-armv8d16 -target-feature -fp-armv8d16sp -target-feature -fp-armv8sp -target-feature -fullfp16 -target-feature -fp64 -target-feature -d32 -target-feature -neon -target-feature -sha2 -target-feature -aes -target-feature -fp16fml -target-abi aapcs -mfloat-abi hard -debugger-tuning=gdb -fforce-dwarf-frame "-fdebug-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-2e3r4c" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=F:\\\\Motor\\\\DriveForLearn_MDK\\\\MDK-ARM\\\\tmp\\\\DriveForLearn_MDK\\\\DriveForLearnMDK\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-2e3r4c" -resource-dir "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\lib\\\\clang\\\\18" -dependency-file "CMakeFiles\\\\cmTC_242fa.dir\\\\CMakeCCompilerABI.o.d" -MT CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -sys-header-deps -canonical-system-headers -internal-isystem "c:\\\\Users\\\\dzh\\\\.vcpkg\\\\artifacts\\\\2139c4c6\\\\compilers.arm.armclang\\\\6.21.0\\\\bin\\\\..\\\\include" -nobuiltininc -ferror-limit 19 -fvisibility=hidden -fno-signed-char -fgnuc-version=4.2.1 -fsuppress-licensing -aggressive-jump-threading -o CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o -x c C:/Users/dzh/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
+        ignore line: [Arm Compiler for Embedded 6.21 -cc1 default target aarch64-arm-none-eabi]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\..\\include\x0d]
+        ignore line: [End of search list.\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Users\\dzh\\.vcpkg\\artifacts\\2139c4c6\\compilers.arm.armclang\\6.21.0\\bin\\armar.exe --create -cr libcmTC_242fa.a  CMakeFiles/cmTC_242fa.dir/CMakeCCompilerABI.o && cd ."]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+...
